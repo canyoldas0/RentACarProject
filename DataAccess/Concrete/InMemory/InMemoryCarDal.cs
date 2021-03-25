@@ -29,7 +29,7 @@ namespace DataAccess.Concrete.InMemory
 
         public void Delete(Car entity)
         {
-            Car carToDelete = _cars.SingleOrDefault(c=>c.CarId==entity.CarId);
+            Car carToDelete = _cars.SingleOrDefault(c=>c.carId==entity.carId);
             _cars.Remove(carToDelete);
 
         }
@@ -56,14 +56,14 @@ namespace DataAccess.Concrete.InMemory
 
         public void Update(Car entity)
         {
-            Car carToModify = _cars.SingleOrDefault(c => c.CarId == entity.CarId);
+            Car carToModify = _cars.SingleOrDefault(c => c.carId == entity.carId);
 
-            carToModify.CarId = entity.CarId;
-            carToModify.CarBrandId = entity.CarBrandId;
-            carToModify.CarColorId = entity.CarColorId;
-            carToModify.ModelYear = entity.ModelYear;
-            carToModify.DailyPrice = entity.DailyPrice;
-            carToModify.Description = entity.Description;
+            carToModify.carId = entity.carId;
+            carToModify.carBrandId = entity.carBrandId;
+            carToModify.carColorId = entity.carColorId;
+            carToModify.modelYear = entity.modelYear;
+            carToModify.dailyPrice = entity.dailyPrice;
+            carToModify.description = entity.description;
         }
 
 

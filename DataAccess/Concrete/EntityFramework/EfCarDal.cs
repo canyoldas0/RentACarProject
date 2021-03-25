@@ -19,19 +19,19 @@ namespace DataAccess.Concrete.EntityFramework
 
                 var result = from c in context.Cars
                              join b in context.Brands
-                              on c.CarBrandId equals b.brandId
+                              on c.carBrandId equals b.brandId
                               join co in context.Colors
-                              on c.CarColorId equals co.colorId
-                             select new CarDetailDto { CarId = c.CarId,
-                                 CarBrandName=b.brandName,
-                                 BrandId=b.brandId,
-                                 CarName=c.CarName,
-                                 CarColorName=co.colorName,
-                                 CarColorId= co.colorId,
-                                 ModelYear=c.ModelYear,
-                                 DailyPrice=c.DailyPrice,
-                                 Description=c.Description,
-                             AutomaticTransmission=c.automaticTransmission};
+                              on c.carColorId equals co.colorId
+                             select new CarDetailDto { carId = c.carId,
+                                 carBrandName=b.brandName,
+                                 brandId=b.brandId,
+                                 carName=c.carName,
+                                 carColorName=co.colorName,
+                                 carColorId= co.colorId,
+                                 modelYear=c.modelYear,
+                                 dailyPrice=c.dailyPrice,
+                                 description=c.description,
+                             };
 
                 return filter == null ? result.ToList(): result.Where(filter).ToList();
                 

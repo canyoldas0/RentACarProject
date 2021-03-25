@@ -5,17 +5,16 @@ namespace Entities.DTOs
 {
     public class CarDetailDto:IDto
     {
-        public int CarId { get; set; }
-        public string CarName { get; set; }
-        public string CarBrandName { get; set; }
-        public int BrandId { get; set; }
-        public string CarColorName { get; set; }
-        public string ModelYear { get; set; }
-        public decimal DailyPrice { get; set; }
-        public string Description { get; set; }
-        public int  CarColorId { get; set; }
-        public bool AutomaticTransmission { get; set; }
-
+        public int carId { get; set; }
+        public string carName { get; set; }
+        public string carBrandName { get; set; }
+        public int brandId { get; set; }
+        public string carColorName { get; set; }
+        public DateTime modelYear { get; set; }
+        public decimal dailyPrice { get; set; }
+        public string description { get; set; }
+        public int  carColorId { get; set; }
+        
 
 
     }

@@ -14,7 +14,10 @@ namespace Business.Constants
         public static string BrandAdded = "The new brand is added to list";
         public static string BrandModified = "The chosen brand is modified";
         public static string BrandDeleted = "The brand is deleted from the list";
-
+        public static string rentInvalid = "Please enter a return date to complete";
+        public static string rentCompleted = "Rent is added. Drive safely";
+        public static string rentDeleted = "Selected rental is deleted";
+        public static string rentUpdated = "Selected rental is updated";
 
     }
 }

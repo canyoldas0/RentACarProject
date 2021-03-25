@@ -1,36 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj": {}
+    "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Console\\Console.csproj": {}
   },
   "projects": {
-    "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj": {
+    "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj",
+        "projectUniqueName": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj",
-        "packagesPath": "/Users/canyoldas/.nuget/packages/",
-        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/",
+        "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\canyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\canyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj"
               },
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -44,6 +46,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,40 +67,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj": {
+    "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj",
+        "projectUniqueName": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj",
-        "packagesPath": "/Users/canyoldas/.nuget/packages/",
-        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/obj/",
+        "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Console\\Console.csproj",
+        "packagesPath": "C:\\Users\\canyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\canyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Business\\Business.csproj"
               },
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj"
               },
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -121,26 +131,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj": {
+    "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj",
+        "projectUniqueName": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj",
-        "packagesPath": "/Users/canyoldas/.nuget/packages/",
-        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/",
+        "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\canyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\canyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -179,37 +191,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj": {
+    "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj",
-        "packagesPath": "/Users/canyoldas/.nuget/packages/",
-        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/",
+        "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\canyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\canyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj"
               },
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -235,10 +249,6 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.4, )"
-            },
-            "MySql.Data.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.22, )"
             }
           },
           "imports": [
@@ -256,34 +266,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
+    "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj",
+        "projectUniqueName": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj",
-        "packagesPath": "/Users/canyoldas/.nuget/packages/",
-        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/obj/",
+        "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\canyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\canyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj"
+              "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\canyo\\source\\repos\\canyoldas0\\RentACarProject\\Core\\Core.csproj"
               }
             }
           }
@@ -312,7 +324,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
