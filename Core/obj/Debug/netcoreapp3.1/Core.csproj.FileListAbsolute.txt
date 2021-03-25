@@ -1,0 +1,9 @@
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.pdb

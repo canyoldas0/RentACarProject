@@ -1,0 +1,14 @@
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csprojAssemblyReference.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb

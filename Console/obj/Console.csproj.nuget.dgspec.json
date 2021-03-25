@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj": {}
+  },
+  "projects": {
+    "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj",
+        "packagesPath": "/Users/canyoldas/.nuget/packages/",
+        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj",
+        "projectName": "Console",
+        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/Console.csproj",
+        "packagesPath": "/Users/canyoldas/.nuget/packages/",
+        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Business/Business.csproj"
+              },
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj",
+        "packagesPath": "/Users/canyoldas/.nuget/packages/",
+        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/canyoldas/.nuget/packages/",
+        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj"
+              },
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/Entities.csproj",
+        "packagesPath": "/Users/canyoldas/.nuget/packages/",
+        "outputPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/canyoldas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/Users/canyoldas/Documents/GitHub/ReCapProject/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

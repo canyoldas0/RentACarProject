@@ -1,0 +1,16 @@
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csprojAssemblyReference.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfoInputs.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfo.cs
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.CoreCompileInputs.cache
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.deps.json
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Business.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Core.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.csproj.CopyComplete
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.dll
+/Users/canyoldas/Documents/GitHub/ReCapProject/Business/obj/Debug/netcoreapp3.1/Business.pdb
