@@ -1,6 +1,8 @@
-﻿/*
-No database-level extended properties were found or all existing extended properties are open in other windows
-*/CREATE TABLE [dbo].[Brands] (
+
+
+
+
+CREATE TABLE [dbo].[Brands] (
     [brandId]   INT        NOT NULL,
     [brandName] NCHAR (20) NOT NULL,
     PRIMARY KEY CLUSTERED ([brandId] ASC)
